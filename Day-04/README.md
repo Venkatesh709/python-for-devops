@@ -99,9 +99,10 @@ Python workspaces refer to the environment in which you develop and run your Pyt
 Python workspaces can be local or virtual environments. A local environment is the system-wide Python installation, while a virtual environment is an isolated environment for a specific project. You can create virtual environments using tools like `virtualenv` or `venv`.
 
 **Example:**
-Install virtual env
-pip install virtualenv
+
 ```bash
+# Install virtual env
+pip install virtualenv
 # Create a virtual environment
 python -m venv myenv
 
