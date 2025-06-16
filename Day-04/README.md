@@ -103,6 +103,7 @@ Python workspaces can be local or virtual environments. A local environment is t
 ```bash
 # Install virtual env
 pip install virtualenv
+
 # Create a virtual environment
 python -m venv myenv
 
